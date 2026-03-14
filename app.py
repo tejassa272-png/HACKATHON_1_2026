@@ -1,8 +1,3 @@
-"""
-Enterprise Focus Intelligence Dashboard
-A modern productivity monitoring application with gamification and analytics.
-"""
-
 import logging
 import time
 import threading 
