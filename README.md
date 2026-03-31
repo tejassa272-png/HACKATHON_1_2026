@@ -21,5 +21,5 @@ Unlike traditional "bossware" or productivity trackers, the Cartographer operate
 ### Quick Start
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/HACKATHON_1_2026.git](https://github.com/YourUsername/HACKATHON_1_2026.git)
+   git clone [https://github.com/tejassa272-png/HACKATHON_1_2026.git](https://github.com/tejassa272-png/HACKATHON_1_2026.git)
    cd HACKATHON_1_2026
